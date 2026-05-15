@@ -1,3 +1,12 @@
+## Data Source
+
+- **Platform**: Wenjuanxing (问卷星) online survey platform
+- **URL**: https://www.wjx.cn
+- **Collection Method**: Online questionnaire survey
+- **Collection Date**: May 15, 2025
+- **Number of Observations**: 200 rows
+- **Number of Variables**: 33 columns
+
 # Data Description and Codebook
 
 ## Overview
